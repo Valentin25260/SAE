@@ -1,0 +1,198 @@
+.header{
+
+    position:absolute;
+    width: 375px;
+    margin-left: 0px;
+    margin-right: 0px;
+    height: 77px;
+    background-color: white;
+    z-index: 2;
+}
+
+.header__titre{
+
+    position: absolute;
+    width: 192px;
+    height: 34px;
+    left: 91px;
+    top: 21px;
+}
+
+.header__menu{
+    
+    position: absolute;
+    width: 44px;
+    height: 44px;
+    left: 310px;
+    top: 11px;
+}
+
+.haeder__logo{
+    
+    position: absolute;
+    width: 56px;
+    height: 49px;
+    left: 8px;
+    top: 6px;
+}
+
+.header__bar{
+ 
+    position: absolute;
+    width: 375px;
+    height: 5px;
+    left: 0px;
+    top: 77px;
+    
+
+    background: #2AA5D7;
+    
+}
+
+.header__polygone{
+    height: 37px;
+    width: 162px;
+    left: 106px;
+    top: 77px;
+    border-radius: 0px;
+    position: absolute;
+    left: 28.27%;
+    right: 28.53%;
+    top: 99%;
+    bottom: 8.8%;
+    z-index: 3;
+
+    background-color: white;
+    
+
+}
+
+.header__vector{
+    position: absolute;
+    width: 163.51px;
+    height: 19.83px;
+    left: 105.5px;
+    top: 105.17px;
+    z-index: 3;
+}
+
+.header__rectangle{
+    
+    width: 162px;
+    height: 37px;
+    left: 106px;
+    top: 77px;
+
+    background: #FFFFFF;
+}
+
+
+.header__page{
+    position: absolute;
+    left: 42.73%;
+    right: 40%;
+    top: 90.4%;
+    bottom: 20.8%;
+    
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    
+    z-index: 3;
+    
+    
+    color: #000000;
+}
+
+.header__page1{
+    position: absolute;
+    width: 154px;
+    height: 13px;
+    left: 116px;
+    top: 68px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    
+    color: #000000;
+    z-index: 3;
+   
+}
+
+.header__page5{
+    position: absolute;
+    width: 66px;
+    height: 21px;
+    left: 155px;
+    top: 68px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #000000;
+    z-index: 3;
+    
+
+}
+
+.header__page3{
+    position: absolute;
+    width: 120px;
+    height: 13px;
+    left: 129px;
+    top: 78px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    
+    color: #000000;
+    z-index: 1;
+
+}
+
+.header__page6{
+
+    position: absolute;
+    width: 77px;
+    height: 27px;
+    left: 149px;
+    top: 68px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #000000;
+    z-index: 3;
+}
+
+.header__page7{
+    position: absolute;
+    width: 119px;
+    height: 27px;
+    left: 128px;
+    top: 68px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    
+    color: #000000;
+    z-index: 3;
+
+}

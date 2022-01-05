@@ -1,0 +1,669 @@
+.footer__bar{
+
+    position: absolute;
+    width: 375px;
+    height: 12px;
+    left: 0px;
+    top: 1471px;
+    
+    background: #2AA5D7;
+}
+
+.footer__nom{
+
+    position: absolute;
+    width: 86px;
+    height: 20px;
+    left: 140px;
+    top: 1514px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.footer__mail{
+
+    position: absolute;
+    width: 254px;
+    height: 20px;
+    left: 64px;
+    top: 1563px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.footer__mmi{
+
+    position: absolute;
+    width: 314px;
+    height: 63px;
+    left: 26px;
+    top: 1609px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+.footer__logo{
+    
+    position: absolute;
+    width: 59px;
+    height: 59px;
+    left: 312px;
+    top: 1682px;
+  
+}
+
+.footer__bar1{
+
+    position: absolute;
+    width: 168px;
+    height: 2px;
+    left: 99px;
+    top: 1569px;
+
+    background-color: #000000;
+}
+
+.footer__bar2{
+
+    position: absolute;
+    width: 283px;
+    height: 2px;
+    left: 42px;
+    top: 1615px;
+
+    background-color: #000000;
+}
+
+
+
+.footer__nom1{
+
+    position: absolute;
+    width: 86px;
+    height: 20px;
+    left: 140px;
+    top: 4567px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.footer__mail1{
+
+    position: absolute;
+    width: 254px;
+    height: 20px;
+    left: 64px;
+    top: 4616px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+
+    color: #000000;
+}
+
+.footer__mmi1{
+
+    position: absolute;
+    width: 314px;
+    height: 63px;
+    left: 26px;
+    top: 4662px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+.footer__logo1{
+    
+    position: absolute;
+    width: 59px;
+    height: 59px;
+    left: 312px;
+    top: 4735px;
+  
+}
+
+.footer__bar11{
+
+    position: absolute;
+    width: 168px;
+    height: 2px;
+    left: 99px;
+    top: 4622px;
+
+    background-color: #000000;
+}
+
+.footer__bar21{
+
+    position: absolute;
+    width: 283px;
+    height: 2px;
+    left: 42px;
+    top: 4670px;
+
+    background-color: #000000;
+}
+
+.footer__bar13{
+    position: absolute;
+    width: 168px;
+    height: 2px;
+    left: 103px;
+    top: 4806px;
+    
+    background-color: #000000;
+
+}
+
+.footer__nom13{
+    position: absolute;
+    width: 86px;
+    height: 20px;
+    left: 144px;
+    top: 4751px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    
+    color: #000000;
+
+}
+
+.footer__mail13{
+    position: absolute;
+    width: 254px;
+    height: 20px;
+    left: 68px;
+    top: 4800px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    
+    color: #000000;
+
+}
+
+.footer__mmi13{
+    position: absolute;
+    width: 314px;
+    height: 63px;
+    left: 30px;
+    top: 4856px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    
+    color: #000000;
+
+}
+
+.footer__bar23{
+    position: absolute;
+    width: 283px;
+    height: 2px;
+    left: 46px;
+    top: 4855px;
+    
+    background-color: #000000;
+
+}
+
+.footer__barbleu3{
+    position: absolute;
+    width: 375px;
+    height: 12px;
+    left: 0px;
+    top: 4705px;
+    
+    background: #2AA5D7;
+
+}
+
+.footer__logo13{
+    position: absolute;
+    width: 59px;
+    height: 59px;
+    left: 306px;
+    top: 4939px;
+
+}
+
+.footer__nom14{
+    position: absolute;
+    width: 86px;
+    height: 20px;
+    left: 144px;
+    top: 3767px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    
+    color: #000000;
+
+}
+
+.footer__mail14{
+    position: absolute;
+    width: 254px;
+    height: 20px;
+    left: 68px;
+    top: 3817px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    
+    color: #000000;
+
+}
+
+.footer__mmi14{
+    position: absolute;
+    width: 314px;
+    height: 63px;
+    left: 30px;
+    top: 3872px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    
+    color: #000000;
+
+}
+
+.footer__logo14{
+    position: absolute;
+    width: 59px;
+    height: 59px;
+    left: 316px;
+    top: 3958px;
+
+}
+
+.footer__bar14{
+    position: absolute;
+    width: 168px;
+    height: 2px;
+    left: 103px;
+    top: 3815px;
+    
+    background-color:  #000000;
+
+}
+
+.footer__bar24{
+    position: absolute;
+    width: 283px;
+    height: 2px;
+    left: 46px;
+    top: 3874px;
+    
+    background-color: #000000;
+
+}
+
+.footer__barbleu4{
+    position: absolute;
+    width: 375px;
+    height: 12px;
+    left: 0px;
+    top: 3730px;
+    
+    background: #2AA5D7;
+
+}
+
+
+.footer__nom15{
+    position: absolute;
+    width: 86px;
+    height: 20px;
+    left: 144px;
+    top: 797px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    
+    color: #000000;
+
+}
+
+.footer__mail15{
+    position: absolute;
+    width: 254px;
+    height: 20px;
+    left: 68px;
+    top: 847px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    
+    color: #000000;
+
+}
+
+.footer__mmi15{
+    position: absolute;
+    width: 314px;
+    height: 63px;
+    left: 30px;
+    top: 902px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    
+    color: #000000;
+
+}
+
+.footer__logo15{
+    position: absolute;
+    width: 59px;
+    height: 59px;
+    left: 316px;
+    top: 988px;
+
+}
+
+.footer__bar15{
+    position: absolute;
+    width: 168px;
+    height: 2px;
+    left: 103px;
+    top: 845px;
+    
+    background-color:  #000000;
+
+}
+
+.footer__bar25{
+    position: absolute;
+    width: 283px;
+    height: 2px;
+    left: 46px;
+    top: 904px;
+    
+    background-color: #000000;
+
+}
+
+.footer__barbleu5{
+    position: absolute;
+    width: 375px;
+    height: 12px;
+    left: 0px;
+    top: 750px;
+    
+    background: #2AA5D7;
+
+}
+
+
+.footer__nom16{
+    position: absolute;
+    width: 86px;
+    height: 20px;
+    left: 144px;
+    top: 617px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    
+    color: #000000;
+
+}
+
+.footer__mail16{
+    position: absolute;
+    width: 254px;
+    height: 20px;
+    left: 68px;
+    top: 667px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    
+    color: #000000;
+
+}
+
+.footer__mmi16{
+    position: absolute;
+    width: 314px;
+    height: 63px;
+    left: 30px;
+    top: 722px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    
+    color: #000000;
+
+}
+
+.footer__logo16{
+    position: absolute;
+    width: 59px;
+    height: 59px;
+    left: 316px;
+    top: 808px;
+
+}
+
+.footer__bar16{
+    position: absolute;
+    width: 168px;
+    height: 2px;
+    left: 103px;
+    top: 665px;
+    
+    background-color:  #000000;
+
+}
+
+.footer__bar26{
+    position: absolute;
+    width: 283px;
+    height: 2px;
+    left: 46px;
+    top: 724px;
+    
+    background-color: #000000;
+
+}
+
+.footer__barbleu6{
+    position: absolute;
+    width: 375px;
+    height: 12px;
+    left: 0px;
+    top: 570px;
+    
+    background: #2AA5D7;
+
+}
+
+
+.footer__nom17{
+    position: absolute;
+    width: 86px;
+    height: 20px;
+    left: 144px;
+    top: 2217px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    
+    color: #000000;
+
+}
+
+.footer__mail17{
+    position: absolute;
+    width: 254px;
+    height: 20px;
+    left: 68px;
+    top: 2267px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    
+    color: #000000;
+
+}
+
+.footer__mmi17{
+    position: absolute;
+    width: 314px;
+    height: 63px;
+    left: 30px;
+    top: 2322px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    
+    color: #000000;
+
+}
+
+.footer__logo17{
+    position: absolute;
+    width: 59px;
+    height: 59px;
+    left: 316px;
+    top: 2408px;
+
+}
+
+.footer__bar17{
+    position: absolute;
+    width: 168px;
+    height: 2px;
+    left: 103px;
+    top: 2265px;
+    
+    background-color:  #000000;
+
+}
+
+.footer__bar27{
+    position: absolute;
+    width: 283px;
+    height: 2px;
+    left: 46px;
+    top: 2324px;
+    
+    background-color: #000000;
+
+}
+
+.footer__barbleu7{
+    position: absolute;
+    width: 375px;
+    height: 12px;
+    left: 0px;
+    top: 2170px;
+    
+    background: #2AA5D7;
+
+}
